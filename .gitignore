@@ -1,5 +1,6 @@
 # Custom 
 tmp
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -121,6 +122,5 @@ tmp
 tf_to_pytorch/pretrained_tensorflow
 !tf_to_pytorch/pretrained_tensorflow/download.sh
 examples/imagenet/run.sh
-
 
 
